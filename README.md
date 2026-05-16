@@ -11,14 +11,14 @@ as well as an indivudal test for each enhancement to see how they each performed
 
 ## results
 
-system  |   accuracy
-====================
-baseline    |   62.22%
-stopwords only  |   61.36%
-lemmatization only  |   61.80%
-bigrams only    |   63.80%
-all 3 combined  |   64.78%
-embeddings (spaCy)  |   55.83%
+| System | Accuracy |
+|--------|----------|
+| Baseline (BoW) | 62.22% |
+| Stopwords only | 61.36% |
+| Lemmatization only | 61.80% |
+| Bigrams only | 63.80% |
+| All 3 Combined | 64.78% |
+| Embeddings (spaCy) | 55.83% |
 
 ## analysis
 
